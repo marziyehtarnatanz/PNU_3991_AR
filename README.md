@@ -1,3 +1,6 @@
 # PNU_3991_AR
-PNU_3991_AR
-git rm --cached giant_file
+# - مرضیه طارنطنز
+  - [github](https://github.com/marziyehtarnatanz)
+  - [PNU_3991_AR](https://github.com/marziyehtarnatanz/PNU_3991_AR)
+  - [Resume](MyResume.pdf)
+  - [Javascript cetificate](html.pdf)
