@@ -9,4 +9,4 @@
   - [خلاصه ارزیابی بخش عمومی](XX_GeneralSection_CheckList_AR_39911.pdf)
 # - دروس کارشناسی
   - [کارآموزی](1322029--29.compressed.pdf)
-  - [پروژه](chat.zip)(tarnatanz.ir)
+  - [پروژه](chat.zip)[link](tarnatanz.ir)
