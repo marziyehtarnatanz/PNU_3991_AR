@@ -3,6 +3,7 @@
   - [github](https://github.com/marziyehtarnatanz)
   - [PNU_3991_AR](https://github.com/marziyehtarnatanz/PNU_3991_AR)
   - [Resume](MyResume.pdf)
+  - [SOP](SOP_.pdf)
   - [Javascript cetificate](html.pdf)
 # - ارزیابی
   - [ارزیابی رزومه و انگیزه نامه](XX_GeneralSection_CheckList_AR_3991.pdf)
