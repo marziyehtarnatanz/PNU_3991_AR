@@ -2,7 +2,7 @@
 # - مرضیه طارنطنز
   - [github](https://github.com/marziyehtarnatanz)
   - [PNU_3991_AR](https://github.com/marziyehtarnatanz/PNU_3991_AR)
-  - [Resume](MyResume.pdf)
+  - [Resume](myResume_.pdf)
   - [SOP](SOP_.pdf)
   - [Javascript cetificate](html.pdf)
 # - ارزیابی
