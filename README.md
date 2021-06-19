@@ -10,6 +10,7 @@
   - [خلاصه ارزیابی بخش عمومی](XX_GeneralSection_CheckList_AR_39911.pdf)
 # - دروس کارشناسی
   - [کارآموزی](1322029--29.compressed.pdf)
+  - [گزارش کارآموزی](https://github.com/marziyehtarnatanz/PNU_3991_AR/blob/964e449808f2427af7f371305b7003353296c42a/Gozaresh.pdf)
 # - پروژه
   - [آدرس پروژه](http://tarnatanz.ir)
   - [پروژه](m.tarnatanz.rar)
